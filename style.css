@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(29, 26, 26);
+}
+
+.nav-link{
+    color: brown;
+}
+.carousel-inner{
+    align-items: center;
+    padding: 33px 9px 34px 4px;
+    justify-content: center;
+}
+.card{
+    background-color: rgb(96, 15, 15);
+    color: aliceblue;
+}
+.red-navbar{
+    background-color: rgb(101, 14, 14);
+}
